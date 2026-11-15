@@ -115,6 +115,16 @@ development support, and a readiness health check.
 6) [Contributor guide](CONTRIBUTING.md)
 7) [API overview](docs/API.md)
 
+## PROJECT MAINTENANCE
+
+This repository is independently maintained by `evanssamwel` and includes
+substantial security, privacy, reliability, accessibility, and administration
+improvements.
+
+The original MIT license and copyright notice are preserved below for
+redistributed portions of the software. New project-specific improvements are
+documented in [improvements.md](improvements.md).
+
 ## :electric_plug: FRAMEWORKS
 1) PHP Packages
    - [Core Boxx](https://code-boxx.com/core-boxx-php-framework/)
@@ -133,6 +143,9 @@ Like this project? Just give it a star. That will indirectly help grow my blog a
 <br><br>
 
 ## :newspaper: LICENSE
+
+This project is distributed under the MIT License. The notice below applies
+to the redistributed portions of the software and is retained for compliance.
 Copyright by Code Boxx
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
